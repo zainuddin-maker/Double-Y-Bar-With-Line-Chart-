@@ -3,7 +3,7 @@
   <br>
   <!-- <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.png" alt="Markdownify" width="200"></a> -->
   <br>
-  Chart Line with Area Shading
+  Chart Double Y Bar with Line
   <br>
 </h1>
 
@@ -11,10 +11,10 @@
 
 <!-- <h4 align="center">A minimal Markdown Editor desktop app built on top of <a target="_blank">Electron</a>.</h4> -->
 
-![screenshot](https://github.com/zainuddin-maker/Line-Chart-with-Shading/blob/master/test.gif?raw=true)
+![screenshot](https://github.com/zainuddin-maker/Double-Y-Bar-With-Line-Chart-/blob/master/test.gif?raw=true)
 
 
-This application is used to make chart line with are shading , this chart generate from  data and the data from  thingworx platform .
+This application is used to make chart double y bar with line , this chart generate from  data and the data from  thingworx platform .
 
 
 ## Usage example
