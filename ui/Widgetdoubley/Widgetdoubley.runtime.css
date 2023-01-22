@@ -1,0 +1,91 @@
+.widget-Widgetdoubley{
+
+ 
+}
+
+body {
+  font: 10px sans-serif !important;
+  
+}
+
+text {
+  font-family: sans-serif;
+  font-size: 10px ;
+
+}
+
+
+#tooltipdoubley {
+  position: absolute;
+  /* max-width: 100px; */
+  height: auto;
+  padding: 10px;
+  background-color: white;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  -webkit-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+  -mox-box-shadow: 4px 4px 4px 10px rgba(0, 0, 0, 0.4);
+  box-shadow: 4px 4px 10px rbga(0, 0, 0, 0.4) ;
+}
+#tooltipdoubley.hidden {
+  /* display: none; */
+  opacity: 0;
+}
+#tooltipdoubley p {
+  margin: 0;
+  
+  font-family: sans-serif;
+
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+
+
+.secondcontainerdoubley{
+
+  overflow-x: auto;
+
+  align-items: center;
+
+} 
+
+
+
+
+
+
+
+.legenddoubley{
+  display: flex;
+
+  align-items: center;
+ /* justify-content: center; */
+ 
+}
+
+.legendboxdoubley{
+  width: 25px;
+  height: 15px;
+  margin-right: 5px;
+}
+.legendtextdoubley{
+  /* width:65px; */
+  margin-right: 5px;
+  white-space: nowrap; 
+  overflow: hidden;
+  text-overflow: ellipsis; 
+
+}
+
+
+
+
+
+	    
+
+	
+
+      
